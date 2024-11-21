@@ -110,7 +110,7 @@ NOTE: Unfortunately, performing the matrix-matrix multiplication on the ```10000
 ---
 #### Realistically, there are 8 different experiment combinations for each matrix size. So 16 experiments to account for both data-types. Then 16 multiplied (5) for the number of different sizes. To limit the length and be concise, I will only display specific interesting cases especially on the ```1000x1000``` case. 
 
-## Please navigate to the "experiments" folder to find the data from the trials.
+### Please navigate to the "experiments" folder to find the data from the trials.
 
 ---
 
